@@ -76,4 +76,4 @@
 ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nxvap/hexagon/main/loader"))()
-task.wait(5) loadstring(game:HttpGet("https://oblivion.menu/bench/hidden"))() task.wait(5) loadstring(game:HttpGet("https://oblivion.menu/bench"))()
+task.wait(5) loadstring(game:HttpGet("https://oblivion.menu/bench/hidden"))()
